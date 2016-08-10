@@ -17,7 +17,7 @@ The first few minutes can be unstable in terms of exp / h, wait for the right ti
   "ShowPokeballCountsBeforeRecycle": true,
   "CatchPokemon": true,
   "AutomaticallyLevelUpPokemon": true, /*WARNING! Change this if you don't want to level up your pkm*/
-  "AmountOfTimesToUpgradeLoop": 5,
+  "AmountOfTimesToUpgradeLoop": 10,
   "GetMinStarDustForLevelUp": 500000, /*WARNING: Bot levels up your best pokemon (for iv) when you have 500k dust. Change if you want*/
   "LevelUpByCPorIv": "iv",
   "UpgradePokemonCpMinimum": 1000.0, /*WARNING!*/
@@ -49,9 +49,9 @@ The first few minutes can be unstable in terms of exp / h, wait for the right ti
   "RecycleInventoryAtUsagePercentage": 90.0,
   "UseEggIncubators": true,
   "UseLuckyEggConstantly": false,
-  "UseLuckyEggsMinPokemonAmount": 30, */Set to 30. It's used very rarely. (hardly ever)/*
+  "UseLuckyEggsMinPokemonAmount": 30, /*Set to 30. It's used very rarely. (hardly ever)*/
   "UseLuckyEggsWhileEvolving": true, 
-  "UseIncenseConstantly": false, */Incense is NOT used; you can change this anyway*/
+  "UseIncenseConstantly": false, /*Incense is NOT used; you can change this anyway*/
   "UseBerriesMinCp": 0,
   "UseBerriesMinIv": 0.0,
   "UseBerriesBelowCatchProbability": 0.0,
@@ -62,7 +62,7 @@ The first few minutes can be unstable in terms of exp / h, wait for the right ti
   "SnipeLocationServerPort": 16969,
   "GetSniperInfoFromPokezz": false,
   "GetOnlyVerifiedSniperInfoFromPokezz": true,
-  "MinPokeballsToSnipe": 100, */ You can change this, 100 is good for me /*
+  "MinPokeballsToSnipe": 100, /* You can change this, 100 is good for me */
   "MinPokeballsWhileSnipe": 0,
   "MinDelayBetweenSnipes": 6000,
   "SnipingScanOffset": 0.005,
@@ -79,7 +79,7 @@ The first few minutes can be unstable in terms of exp / h, wait for the right ti
   "TotalAmountOfPotionsToKeep": 10,
   "TotalAmountOfRevivesToKeep": 10,
   "TotalAmountOfBerriesToKeep": 50,
-  "UseGreatBallAboveCp": 750, */Change with what you want. Usually, i use 1200-1800-2500./*
+  "UseGreatBallAboveCp": 750, /*Change with what you want. Usually, i use 1200-1800-2500.*/
   "UseUltraBallAboveCp": 1000,
   "UseMasterBallAboveCp": 1500,
   "UseGreatBallAboveIv": 80.0,
